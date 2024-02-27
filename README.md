@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Devloper
 -------------------
 
-I'm a passionate software engineer and a recent graduate of Flatiron School. I have learned various programming languages and frameworks such as JavaScript, React.js, Python, Flask, Dart, Flutter, Git, GitHub, and other technical skills. At Flatiron, I developed solo and collaborative projects, including a capstone full-stack social media app project. Prior to transitioning into software development, I've been deeply involved in the fast-paced world of the food industry, managing teams and optimizing operations to deliver exceptional customer experience. In addition, I've taken on various odd jobs, each offering unique challenges that have further sharpened my adaptability and problem-solving skills. This diverse background fuels my ability to approach challenges from multiple angles and adapt quickly to new environments.
+I'm a passionate software engineer and a recent graduate of Flatiron School. I have learned various programming languages and frameworks such as JavaScript, React.js, Python, Flask, Dart, Flutter, Git, GitHub, and other technical skills. At Flatiron, I developed solo and collaborative projects, including a capstone full-stack social media app project. 
+
+Prior to transitioning into software development, I've been deeply involved in the fast-paced world of the food industry, managing teams and optimizing operations to deliver exceptional customer experience. In addition, I've taken on various odd jobs, each offering unique challenges that have further sharpened my adaptability and problem-solving skills. This diverse background fuels my ability to approach challenges from multiple angles and adapt quickly to new environments.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [markremembers@gmail.com](mailto:markremembers@gmail.com)
