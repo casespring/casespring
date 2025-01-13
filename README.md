@@ -10,7 +10,7 @@ Prior to transitioning into software development, I've been deeply involved in t
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [markremembers@gmail.com](mailto:markremembers@gmail.com)
-* 🧠  I'm learning Flutter with Dart
+* 🧠  I'm currently mastering Python and will continue on to learn C++/C# 
 * 🤝  I'm open to collaborating on React.js and Python projects
 * ⚡  Fun fact: A Flock of Crows is Called a "Murder"
 
